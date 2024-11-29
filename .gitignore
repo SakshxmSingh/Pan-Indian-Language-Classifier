@@ -1,0 +1,9 @@
+# ds store
+.DS_Store
+*/.DS_Store
+
+# data folder
+data/
+
+# model folder
+models/
